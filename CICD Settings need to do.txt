@@ -1,0 +1,17 @@
+CICD Settings need to do*
+
+1. Add Secret and variable
+- BACKEND_SOLUTION_PATH
+- BACKEND_TEST_PATH
+- FRONTEND_BUILDFILE_PATH
+- IIS_NAME
+- IIS_PASSWORD
+- IIS_URL
+- IIS_USERNAME
+
+2. Settings > Actions > General > Workflow permissions > Allow Read and Write
+
+3. One folder for Backend, one folder for frontend\
+
+4. 2 workflow, 1 for build-and-test pull request, 1 for build-and-test, deploy and create release tag
+
