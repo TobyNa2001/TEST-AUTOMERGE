@@ -15,4 +15,4 @@ CICD Settings need to do*
 
 4. 2 workflow, 1 for build-and-test pull request, 1 for build-and-test, deploy and create release tag
 
-5. help
+5. help no
